@@ -1,0 +1,50 @@
+[
+  {
+    "priority": "CRITICAL",
+    "label": "Urgent",
+    "color": "red",
+    "itemId": "oxB"
+  },
+  {
+    "priority": "INFO",
+    "label": "Info",
+    "color": "green",
+    "itemId": "oxA"
+  },
+  {
+    "priority": "CRITICAL",
+    "label": "Urgent",
+    "color": "red",
+    "itemId": "oxD"
+  },
+  {
+    "priority": "WARN",
+    "label": "Warn",
+    "color": "orange",
+    "itemId": "oxC"
+  },
+  {
+    "priority": "CRITICAL",
+    "label": "Urgent",
+    "color": "red",
+    "itemId": "oxD"
+  },
+  {
+    "priority": "WARN",
+    "label": "Warn",
+    "color": "orange",
+    "itemId": "oxC"
+  },
+  {
+    "priority": "WARN",
+    "label": "Warn",
+    "color": "orange",
+    "itemId": "oxC"
+  },
+  {
+    "priority": "INFO",
+    "label": "Info",
+    "color": "green",
+    "itemId": "oxA"
+  }
+]

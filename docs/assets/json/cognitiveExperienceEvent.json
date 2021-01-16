@@ -1,0 +1,30 @@
+[
+  {
+    "date": "03:01:2021 10:00:00",
+    "type": "TRACE",
+    "url": "GET :favicon.ico",
+    "message": "Request URL from http://localhost:8000 Response code 300",
+    "color": "#0022FF"
+  },
+  {
+    "date": "03:01:2021 10:00:00",
+    "type": "REQUEST",
+    "url": "GET /favicon.ico",
+    "message": "Request URL from http://localhost:8000 Response code 300",
+    "color": "#00FF22"
+  },
+  {
+    "date": "03:01:2021 10:00:00",
+    "type": "DEPENDENCY",
+    "url": "GET /favicon.ico",
+    "message": "Request URL from http://localhost:8000 Response code 300",
+    "color": "#FF00DD"
+  },
+  {
+    "date": "03:01:2021 10:00:00",
+    "type": "DEPENDENCY",
+    "url": "GET /favicon.ico",
+    "message": "Request URL from http://localhost:8000 Response code 300",
+    "color": "#FFEE00"
+  }
+]
